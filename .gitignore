@@ -6,3 +6,9 @@ diff_rasterization/diff_rast.egg-info
 diff_rasterization/dist
 tensorboard_3d
 screenshots
+
+# large data and generated binaries — kept locally, not in git
+Data/
+viewers/
+colmap_database.db
+spec.txt
